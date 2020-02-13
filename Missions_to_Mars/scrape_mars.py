@@ -96,5 +96,3 @@ def scrape():
 
     return (results)
     
-
-print(scrape())
